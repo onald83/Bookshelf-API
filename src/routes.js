@@ -19,9 +19,9 @@ const routes = [
     path: '/books',
     // handler: () => {}
     handler: getAllBooksHandler
-  },
+  }
 
-  /*{
+  /* {
     method: 'GET',
     path: '/books/{id}',
     // handler: () => {}
